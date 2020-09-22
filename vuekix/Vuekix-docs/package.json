@@ -1,0 +1,24 @@
+{
+  "name": "vuekix-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "element-ui": "^2.13.2",
+    "highlight": "^0.2.4",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2",
+    "vuepress": "^1.5.4"
+  },
+  "dependencies": {
+    "vuekix": "^0.1.0"
+  }
+}
