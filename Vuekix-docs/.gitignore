@@ -1,7 +1,0 @@
-
-# 生成的静态资源
-# .vuepress/dist/
-
-.DS_Store
-.travis.yml
-node_modules/
